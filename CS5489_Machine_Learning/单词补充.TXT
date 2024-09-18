@@ -1,0 +1,17 @@
+derive 得到
+mathematically derive 数学推导
+empirical  经验主义的；以实验(或经验)为依据的
+prerequisite 前提；先决条件；必备条件
+Calculus (e.g., continuity, differentiability) 微积分（连续性、可微性）
+derivative 导数
+w.r.t.  with respect to 关于
+citation 引用
+permutation 排列
+integrate 合并
+clustering 分类归并
+Supervise 监督
+Regression 回归
+Density 密度
+posterior 后面的
+denominator 分母
+monotonic 单调的 monotonicity 单调性

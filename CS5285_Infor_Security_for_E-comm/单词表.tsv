@@ -1,0 +1,60 @@
+Lecture 2- Symmetric-Key-Encryption-SlidesOnly			
+英文	中文	页码	
+Information Security	信息安全	1	
+countermeasures	对策	2	
+Confidentiality	机密性	3	
+Symmetric Key Encryption	对称密钥加密	3	
+Cryptology	密码学	5	
+Cryptography	密码术	5	
+Cryptanalysis	密码分析	5	
+"""QED"""	"是拉丁语 ""Quod Erat Demonstrandum"" 的缩写，意为 ""正如所要证明的"""	5	"""ychrpyaprtgo is cracked to ______________, QED."" 这句话意味着某个密码或加密信息已经被成功破解，并且破解的过程或结果已经得到了证明。"
+Cipher	密码	7	
+Key	密钥	7	
+Plaintext	明文	7	
+Ciphertext	密文	7	
+Eavesdropper	窃听者	7	
+Cryptographic Tools	密码工具	4	
+Cryptographic Algorithms	密码算法	9	
+Cryptographic Systems	密码系统	9	
+Cryptographic Techniques	密码技术	9	
+Cryptographic Principles	密码学原理	9	
+Cryptographic Protocols	密码协议	9	
+Cryptanalysis	密码破解	8	
+Kerckhoffs Principle	柯克霍夫原则	8	只要key没有泄露就是安全的
+obscurity	晦涩难懂	8	No “security through obscurity”就是说加密解密算法一般是公开的
+Caesar Cipher	凯撒密码	9	
+substitution cipher	替换密码	9	
+Simple Substitution	替代	16	each plaintext letter is substituted by a distinct ciphertext letter
+Frequency Analysis	频率分析	24	
+Cryptanalyst	密码分析师	19	
+Brute-force Attack	暴力破解	21	
+Permutation	排列	20	
+matters of state	国家事务	22	
+linguistics	语言学	22	
+Qur’an	可兰经	23	乐，应该把永乐大典拿来研究中国文字建政文化的
+asymmetric	不对称的	26	"h后面常常在e前面he,here，而不常在e后面behind"
+crib	译文（试值）	27	比如你常常看到ciphertext有xyz你怀疑是the，于是代进去看一看（是不是像高考数学试个特殊值以及选择题把选项值代进去）
+be accounted for	被解释清楚	36	
+polyalphabetic	多字母加密法	36	
+Vigenère cipher	为基尼尔加密法	37	
+interwoven	交织使用	37	
+Stream Cipher	流密码	52	
+Block Cipher	块密码	58	
+DES	数据加密标准	59	
+Feistel Structure	Feistel结构	60	
+Confusion	混乱	63	
+Diffusion	扩散	63	
+Completion	完成	63	
+Exhaustive Key Search	穷举密钥搜索	65	
+Triple DES	三重DES	68	
+Advanced Encryption Standard	高级加密标准	70	
+ByteSub	字节替换	71	
+ShiftRow	移位行	71	
+MixColumn	混合列	71	
+AddRoundKey	轮密钥加	71	
+S-boxes	S盒	71	
+P box	P盒	62	
+Electronic Codebook	电子密码本	90	
+Cipher Block Chaining	密码块链接	95	
+Counter Mode	计数器模式	100	
+Cipher Feedback	密码反馈	101	
