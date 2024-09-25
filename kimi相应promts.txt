@@ -3,3 +3,9 @@
 
 2、能不能举例说明，详细解析一下第12-14页的内容？我完全看不懂。我是指Naive Bayes Model For Boolean Vectors、Smoothing、Multinomial Naive Bayes这三页
 接下来的这几页你也用类似的方法来逐页解析叭
+
+
+
+帮我整理一下其中出现的术语，整理成简要笔记
+
+稍微详细一些，做成可以背诵的知识提纲
